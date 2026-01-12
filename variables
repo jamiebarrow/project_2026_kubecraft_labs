@@ -1,0 +1,6 @@
+#!/bin/bash
+
+JB_HOME=~/.jb
+echo $JB_HOME
+echo ${JB_HOME}
+echo "${JB_HOME}->home path"
